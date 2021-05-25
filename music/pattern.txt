@@ -1,0 +1,2 @@
+"build-test": "vue-cli-service --mode test",
+"lint": "vue-cli-service lint"
